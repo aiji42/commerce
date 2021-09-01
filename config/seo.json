@@ -1,26 +1,26 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "title": "SurvaQストア（サバキューストア）｜「あっ」と驚く製品が集まる！",
   "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "description": "はじめまして。SurvaQ（サバキュー）ストアです。我々は『Nice product. Have a nice life.』をコンセプトに、海外で人気のある「面白い！」「あったら便利！」「ワクワクする！」ものをお届けしています。",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "SurvaQストア（サバキューストア）｜「あっ」と驚く製品が集まる！",
+    "description": "はじめまして。SurvaQ（サバキュー）ストアです。我々は『Nice product. Have a nice life.』をコンセプトに、海外で人気のある「面白い！」「あったら便利！」「ワクワクする！」ものをお届けしています。",
     "type": "website",
-    "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "locale": "ja",
+    "url": "https://survaq-store.com/",
+    "site_name": "SurvaQストア",
     "images": [
       {
-        "url": "/card.png",
-        "width": 800,
-        "height": 600,
-        "alt": "Next.js Commerce"
+        "url": "/sns-logo.png",
+        "width": 1200,
+        "height": 628,
+        "alt": "SurvaQストア"
       }
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "title": "SurvaQストア（サバキューストア）｜「あっ」と驚く製品が集まる！",
+    "description": "はじめまして。SurvaQ（サバキュー）ストアです。我々は『Nice product. Have a nice life.』をコンセプトに、海外で人気のある「面白い！」「あったら便利！」「ワクワクする！」ものをお届けしています。",
     "cardType": "summary_large_image"
   }
 }
